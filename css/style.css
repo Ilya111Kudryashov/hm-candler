@@ -66,6 +66,7 @@ button{
 .button{
     padding: 18px 54px;
     background-color: #FFBD59;
+    color: #272727;
     font-family: 'Comfortaa', cursive;
     font-size: 14px;
     font-weight: 600;
@@ -169,6 +170,7 @@ button{
 }
 .top__buy{
     background-color: #FFBD59;
+    color: #272727;
     padding: 18px 54px;
     font-family: 'Comfortaa', cursive;
     font-size: 14px;
