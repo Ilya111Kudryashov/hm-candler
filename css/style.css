@@ -445,6 +445,7 @@ button{
 .accordeon__title{
     font-size: 16px;
     font-family: 'Yeseva One', cursive;
+    color: #000;
     display: block;
     background-color: transparent;
     padding: 16px 50px 16px 13px;
